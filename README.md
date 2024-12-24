@@ -14,4 +14,4 @@ All of the 3D files are available in .stl and .step format in the "Objects" fold
 
 The Arduino code for this version is available in the "Code" folder. It requires that you install the Adafruit neopixel libary within the Arduino IDE. 
 
-In the "PCBs" folder you will find 2 zip files. 7-Segment-THT-KiCad.zip is a zipped folder of everything you need to open this in KiCad version 8+. 7-Segment-THT.kicad_pcb.zip contains gerber/drill files.
+In the "PCBs" folder you will find 2 zip files. 7-Segment-WS2812.zip is a zipped folder of everything you need to open this in KiCad version 8+. 7-Segment-WS2812.kicad_pcb.zip contains gerber/drill files. You will also find a bill of materials.
