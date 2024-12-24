@@ -1,4 +1,4 @@
-<img src="img/7-segment-main.jpg" width="100%" alt="PMW3360 Module Image">
+<img src="img/7-segment-main.jpg" width="100%" alt="7 Segment Display">
 
 # 3D Printable 7 Segment Display
 ### This is a fully 3D printed segmented display designed for use with custom PCBs
