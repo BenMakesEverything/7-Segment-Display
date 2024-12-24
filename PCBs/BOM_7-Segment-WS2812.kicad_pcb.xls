@@ -1,0 +1,5 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+"C1, C2, C3, C4, C5, C6, C7",7,0.1 uF,C_0603_1608Metric,,,,smt,Unpolarized capacitor
+"D1, D2, D3, D4, D5, D6, D7",7,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,,,,smt,RGB LED with integrated controller
+J1,1,Conn_01x03_Socket,PinHeader_1x03_P2.54mm_Vertical,,,Yes,tht,"Generic connector, single row, 01x03, script generated"
+J2,1,Conn_01x03_Socket,PinHeader_1x03_P2.54mm_Vertical,,,Yes,tht,"Generic connector, single row, 01x03, script generated"
